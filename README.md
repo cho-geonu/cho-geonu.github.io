@@ -2,7 +2,7 @@
 
 > 깨달음을 기록합니다.
 
-**🔗 https://cho-geonu.github.io**
+**블로그: https://cho-geonu.github.io**
 
 백엔드·인프라 개발자 조건우의 기술 블로그입니다.
 
