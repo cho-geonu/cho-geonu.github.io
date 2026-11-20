@@ -56,4 +56,4 @@ AI가 검증을 위해 테스트, 린트도 돌리고 사람이 사용하는 디
 
 # 영상
 원본: https://youtu.be/O_zcc6Xl12g <br>
-한국어 요약: https://youtu.be/ueA116hO_ho?si=9mVvBV2Cqx3MYvEV
+한국어 요약: [AI 코드 슬롭 안 만드는 법 (YouTube)](https://youtu.be/ueA116hO_ho?si=9mVvBV2Cqx3MYvEV)
